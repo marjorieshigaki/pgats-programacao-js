@@ -8,4 +8,4 @@ function removeStrings(lista) {
 
 const listaOriginal = [1, "casa", 2, "carro", 3, 4, "gato", 5];
 const listaFiltrada = removeStrings(listaOriginal);
-console.log(listaFiltrada)
+console.log(listaFiltrada);

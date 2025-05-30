@@ -15,4 +15,4 @@ function contarVogais(texto) {
 
 console.log(contarVogais('a laranja gostosa')); 
 console.log(contarVogais('o morango azedo')); 
-console.log(contarVogais('a uva verde'))
+console.log(contarVogais('a uva verde'));
