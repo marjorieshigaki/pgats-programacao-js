@@ -1,0 +1,11 @@
+/*
+Crie uma função que pega uma lista de inteiros e strings e retorna uma nova lista sem as strings.
+*/
+
+function removeStrings(lista) {
+  return lista.filter(item => Number.isInteger(item));
+}
+
+const listaOriginal = [1, "casa", 2, "carro", 3, 4, "gato", 5];
+const listaFiltrada = removeStrings(listaOriginal);
+console.log(listaFiltrada); 

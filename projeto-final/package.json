@@ -1,0 +1,16 @@
+{
+  "name": "projeto-final",
+  "version": "1.0.0",
+  "main": "trabalho-final.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.5.0"
+  }
+}
