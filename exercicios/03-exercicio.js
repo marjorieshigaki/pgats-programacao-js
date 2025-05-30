@@ -20,7 +20,7 @@ Exemplos:
 */
 
 /*
-//Feito pelo Copilot
+//Feito por mim
 const nomeDog = 'Thor'
 const idadeDog = 4 // anos
 const porteDog = 'M' // P, M, G

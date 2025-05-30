@@ -16,7 +16,7 @@ Extra: adicionar mais condições. Ex.: >= 50 -? porte grande
 */
 
 /*
-//Feito pelo GPT
+//Feito por mim
 
 const classificarPorte = (nome, peso) => {
   const porte = peso <= 10 ? 'Pequeno' : 'Médio'

@@ -15,7 +15,7 @@ Exiba:
 */
 
 /*
-//Feito pelo GPT com ajustes
+//Feito por mim
 const nomeDog = Thor
 const pesoDog = 16
 const estoqueGramas = 12.000

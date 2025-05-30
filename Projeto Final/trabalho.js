@@ -10,4 +10,3 @@ console.log("Nome: " + nome.toUpperCase())
 console.log("Raça: " + raca.charAt(0).toUpperCase() + raca.slice(1).toLowerCase())
 console.log("Peso: " + peso + "kg")
 
-
