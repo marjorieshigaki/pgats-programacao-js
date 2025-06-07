@@ -21,10 +21,3 @@ jobs:
 
       - name: Executar testes unitários
         run: npx mocha "projeto-final/test/trabalho-final.js"
-
-      # upload do relatório de testes
-      - uses: actions/upload-artifact@v4
-        if: ${{ !cancelled() }}
-        with:
-          name: relatorio de testes 
-          path: ./projeto-final/test/reports
